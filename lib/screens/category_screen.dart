@@ -68,7 +68,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
               height: 250,
               child: CustomPaint(
                 foregroundPainter: RadialPainter(
-                  baLineColor: Colors.grey[200],
+                  baLineColor: Colors.grey[300],
                   frLineColor: getColor(
                     context: context,
                     percent: widget.percent,
